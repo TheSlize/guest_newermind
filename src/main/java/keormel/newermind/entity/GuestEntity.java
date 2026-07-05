@@ -551,7 +551,7 @@ public class GuestEntity extends Monster implements GeoEntity {
 
     @Override
     protected float getStandingEyeHeight(Pose pose, net.minecraft.world.entity.EntityDimensions size) {
-        return 3.9F;
+        return 2.62F;
     }
 
     @Override

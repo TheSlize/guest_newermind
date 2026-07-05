@@ -9,6 +9,7 @@ public class GuestRenderer extends GeoEntityRenderer<GuestEntity> {
     public GuestRenderer(EntityRendererProvider.Context context) {
         super(context, new GuestModel());
         this.shadowRadius = 0.35F;
+        this.withScale(0.8F);
         addRenderLayer(new AutoGlowingGeoLayer<>(this));
     }
 }

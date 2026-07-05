@@ -13,7 +13,7 @@ import net.minecraftforge.registries.RegistryObject;
 public final class ModEntityTypes {
     public static final DeferredRegister<EntityType<?>> ENTITY_TYPES = DeferredRegister.create(ForgeRegistries.ENTITY_TYPES, NewermindMobs.MODID);
 
-    public static final RegistryObject<EntityType<GuestEntity>> GUEST = ENTITY_TYPES.register("guest", () -> EntityType.Builder.of(GuestEntity::new, MobCategory.MONSTER).sized(0.75F, 4.375F).fireImmune().clientTrackingRange(10).updateInterval(3).build(new ResourceLocation(NewermindMobs.MODID, "guest").toString()));
+    public static final RegistryObject<EntityType<GuestEntity>> GUEST = ENTITY_TYPES.register("guest", () -> EntityType.Builder.of(GuestEntity::new, MobCategory.MONSTER).sized(0.6F, 3F).fireImmune().clientTrackingRange(10).updateInterval(3).build(new ResourceLocation(NewermindMobs.MODID, "guest").toString()));
 
     private ModEntityTypes() {
     }

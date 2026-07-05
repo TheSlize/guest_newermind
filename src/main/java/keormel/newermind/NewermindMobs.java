@@ -38,9 +38,7 @@ public class NewermindMobs {
     // Create a Deferred Register to hold CreativeModeTabs under the mod namespace.
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
 
-    public static final RegistryObject<CreativeModeTab> NEWERMIND_TAB = CREATIVE_MODE_TABS.register("newermind_tab", () -> CreativeModeTab.builder().withTabsBefore(CreativeModeTabs.SPAWN_EGGS).title(Component.translatable("itemGroup.newermind_mobs_v2")).icon(() -> ModItems.GUEST_SPAWN_EGG.get().getDefaultInstance()).displayItems((parameters, output) -> {
-        output.accept(ModItems.GUEST_SPAWN_EGG.get());
-    }).build());
+    public static final RegistryObject<CreativeModeTab> NEWERMIND_TAB = CREATIVE_MODE_TABS.register("newermind_tab", () -> CreativeModeTab.builder().withTabsBefore(CreativeModeTabs.SPAWN_EGGS).title(Component.translatable("itemGroup.newermind_mobs_v2")).icon(() -> ModItems.GUEST_SPAWN_EGG.get().getDefaultInstance()).displayItems((parameters, output) -> output.accept(ModItems.GUEST_SPAWN_EGG.get())).build());
 
     public NewermindMobs() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
