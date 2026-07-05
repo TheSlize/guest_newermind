@@ -1,0 +1,13 @@
+{
+  "entity.newermind_mobs_v2.guest": "\u0413\u043e\u0441\u0442\u044c",
+  "item.newermind_mobs_v2.guest_spawn_egg": "\u042f\u0439\u0446\u043e \u043f\u0440\u0438\u0437\u044b\u0432\u0430 \u0413\u043e\u0441\u0442\u044f",
+  "itemGroup.newermind_mobs_v2": "Newermind Mobs V2",
+  "subtitles.newermind_mobs_v2.guest.afar_noice": "\u0425\u0440\u0438\u043f \u0438\u0437 \u0433\u043b\u0443\u0431\u0438\u043d",
+  "subtitles.newermind_mobs_v2.guest.window_noice": "\u0425\u0440\u0438\u043f\u044b \u0437\u0430 \u043e\u043a\u043d\u043e\u043c",
+  "subtitles.newermind_mobs_v2.guest.noice": "\u0416\u0443\u0442\u043a\u0438\u0435 \u0445\u0440\u0438\u043f\u044b",
+  "subtitles.newermind_mobs_v2.guest.spawn_sound": "\u0413\u043e\u0441\u0442\u044c \u043f\u0440\u0438\u0448\u0435\u043b",
+  "subtitles.newermind_mobs_v2.guest.idle_noice": "\u0413\u043e\u0441\u0442\u044c \u0445\u0440\u0438\u043f\u0438\u0442",
+  "subtitles.newermind_mobs_v2.guest.player_found": "\u0413\u043e\u0441\u0442\u044c \u0432\u043e\u043f\u0438\u0442",
+  "subtitles.newermind_mobs_v2.guest.footstep": "\u0422\u044f\u0436\u0435\u043b\u044b\u0435 \u0448\u0430\u0433\u0438",
+  "subtitles.newermind_mobs_v2.guest.jumpscare": "\u0413\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0447\u0438\u0442"
+}

@@ -1,0 +1,13 @@
+{
+  "entity.newermind_mobs_v2.guest": "Guest",
+  "item.newermind_mobs_v2.guest_spawn_egg": "Guest Spawn Egg",
+  "itemGroup.newermind_mobs_v2": "Newermind Mobs V2",
+  "subtitles.newermind_mobs_v2.guest.afar_noice": "Guest rasps from the distance",
+  "subtitles.newermind_mobs_v2.guest.window_noice": "Guest rasps behind glass",
+  "subtitles.newermind_mobs_v2.guest.noice": "Guest rasps",
+  "subtitles.newermind_mobs_v2.guest.spawn_sound": "Guest arrives",
+  "subtitles.newermind_mobs_v2.guest.idle_noice": "Guest breathes",
+  "subtitles.newermind_mobs_v2.guest.player_found": "Guest screams",
+  "subtitles.newermind_mobs_v2.guest.footstep": "Guest steps",
+  "subtitles.newermind_mobs_v2.guest.jumpscare": "Guest shrieks"
+}

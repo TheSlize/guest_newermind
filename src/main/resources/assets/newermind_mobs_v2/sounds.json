@@ -1,0 +1,50 @@
+{
+  "guest.afar_noice": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.afar_noice",
+    "sounds": [
+      "newermind_mobs_v2:guest/afar_noice"
+    ]
+  },
+  "guest.window_noice": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.window_noice",
+    "sounds": [
+      "newermind_mobs_v2:guest/window_noice"
+    ]
+  },
+  "guest.noice": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.noice",
+    "sounds": [
+      "newermind_mobs_v2:guest/noice"
+    ]
+  },
+  "guest.spawn_sound": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.spawn_sound",
+    "sounds": [
+      "newermind_mobs_v2:guest/spawn_sound"
+    ]
+  },
+  "guest.idle_noice": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.idle_noice",
+    "sounds": [
+      "newermind_mobs_v2:guest/idle_noice"
+    ]
+  },
+  "guest.player_found": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.player_found",
+    "sounds": [
+      "newermind_mobs_v2:guest/player_found"
+    ]
+  },
+  "guest.footstep": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.footstep",
+    "sounds": [
+      "newermind_mobs_v2:guest/footstep"
+    ]
+  },
+  "guest.jumpscare": {
+    "subtitle": "subtitles.newermind_mobs_v2.guest.jumpscare",
+    "sounds": [
+      "newermind_mobs_v2:guest/jumpscare"
+    ]
+  }
+}
