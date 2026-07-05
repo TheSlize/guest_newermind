@@ -56,7 +56,7 @@ public class GuestModel extends GeoModel<GuestEntity> {
             EntityModelData entityData = animationState.getData(DataTickets.ENTITY_MODEL_DATA);
             if (entityData != null) {
                 head.setRotX(entityData.headPitch() * Mth.DEG_TO_RAD);
-                head.setRotY(entityData.netHeadYaw() * Mth.DEG_TO_RAD);
+                head.setRotY(entityData.netHeadYaw() * Mth.DEG_TO_RAD + (float) Math.PI);
             }
         });
     }
